@@ -28,5 +28,5 @@ git clone https://github.com/joaoboger/TechnicalChallenge_GenerativeAI.git
 2. Navigate to the repository's directory:
 
 ```shell
-cd generative-ai-meander-channel
+cd TechnicalChallenge_GenerativeAI
 ```
