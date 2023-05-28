@@ -10,9 +10,7 @@ The repository is organized as follows:
 
 - `models/`: This folder is intended to store the trained models. However, it is currently empty due to the large file size of the models.
 
-- `data/`: This folder is intended to store the dataset of 50,000 meander channel cutouts. However, it is currently empty due to the large file size of the dataset. You should place the dataset files in this directory before running the notebook. Dataset available at: [train_images.h5](https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/P_szcpDhMTSHw_9tkSysaRu3B8m
-KFLQG0p4OCGNDgAsOqVhgJED3ZJCH5PxG5OsD/n/grrjnyzvhu1t/b/General_ltrace_files/
-o/train_images.h5)
+- `data/`: This folder is intended to store the dataset of 50,000 meander channel cutouts. However, it is currently empty due to the large file size of the dataset. You should place the dataset files in this directory before running the notebook. Dataset available at: [train_images.h5](https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/P_szcpDhMTSHw_9tkSysaRu3B8mKFLQG0p4OCGNDgAsOqVhgJED3ZJCH5PxG5OsD/n/grrjnyzvhu1t/b/General_ltrace_files/o/train_images.h5)
 
 - `requirements.txt`: This file lists the required libraries and their versions necessary to run the code in the notebook (Python 3.9.13). Before running the notebook, please install the specified versions of the libraries mentioned in this file.
 
