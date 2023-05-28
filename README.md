@@ -6,12 +6,13 @@ This repository contains the code and resources for a technical challenge of gen
 
 The repository is organized as follows:
 
-- `notebooks/`: This folder contains the Jupyter Notebook used for exploring the dataset, preprocessing the data, and evaluating the trained models.
-    - `train.ipynb`: This Jupyter Notebook contains the main code for the generative AI challenge. It provides an end-to-end implementation and demonstrates the process of training the neural network models and generating new meander channel images.
+- `meander_channel_generative.ipynb`: This Jupyter Notebook contains the main code for the generative AI challenge. It provides an end-to-end implementation and demonstrates the process of training the neural network models and generating new meander channel images.
 
 - `models/`: This folder is intended to store the trained models. However, it is currently empty due to the large file size of the models.
 
-- `data/`: This folder is intended to store the dataset of 50,000 meander channel cutouts. However, it is currently empty due to the large file size of the dataset. You should place the dataset files in this directory before running the notebook. Dataset available at: 
+- `data/`: This folder is intended to store the dataset of 50,000 meander channel cutouts. However, it is currently empty due to the large file size of the dataset. You should place the dataset files in this directory before running the notebook. Dataset available at: [train_images.h5](https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/P_szcpDhMTSHw_9tkSysaRu3B8m
+KFLQG0p4OCGNDgAsOqVhgJED3ZJCH5PxG5OsD/n/grrjnyzvhu1t/b/General_ltrace_files/
+o/train_images.h5)
 
 - `requirements.txt`: This file lists the required libraries and their versions necessary to run the code in the notebook (Python 3.9.13). Before running the notebook, please install the specified versions of the libraries mentioned in this file.
 
