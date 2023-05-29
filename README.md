@@ -53,3 +53,9 @@ pip install -r requirements.txt
 6. Open the `train.ipynb` notebook in a Jupyter Notebook environment from the `notebooks/` folder and follow the instructions and code comments within the notebook to train the models and generate new meander channel images.
 
 After training the models, you can save them in the `models/` directory for future use.
+
+## References
+
+- [Variational AutoEncoder - Keras](https://keras.io/examples/generative/vae/)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurélien Géron](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
+- [Auto-Encoding Variational Bayes - Diederik P Kingma, Max Welling](https://arxiv.org/abs/1312.6114)
